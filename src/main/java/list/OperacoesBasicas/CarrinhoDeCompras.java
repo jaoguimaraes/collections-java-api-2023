@@ -52,7 +52,7 @@ public class CarrinhoDeCompras {
     }
     @Override
     public String toString() {
-        return "CarrinhoDeCompras" + itemList;
+        return "main.java.list.OperacoesBasicas.CarrinhoDeCompras" + itemList;
     }
     public static void main(String[] args) {
         //Criando uma instancia do carrinho de Compras.
